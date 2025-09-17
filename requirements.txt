@@ -1,0 +1,9 @@
+# Financial Calculator Requirements
+# No external dependencies required - uses only Python standard library
+
+# For development and testing (optional):
+# pytest>=6.0.0
+# black>=20.0.0
+# flake8>=3.8.0
+
+# Python version requirement: >= 3.6
